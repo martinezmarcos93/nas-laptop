@@ -165,7 +165,7 @@ pip3 install watchdog flask psutil
 
 ```bash
 cd /home/nasuser
-git clone https://github.com/TU_USUARIO/nas-laptop.git
+git clone https://github.com/martinezmarcos93/nas-laptop.git
 cd nas-laptop
 ```
 

@@ -57,7 +57,7 @@ nas-laptop/
 
 ```bash
 # 1. Clona el repositorio en la laptop
-git clone https://github.com/TU_USUARIO/NAS_laptop.git
+git clone https://github.com/martinezmarcos93/nas-laptop.git
 cd nas-laptop
 
 # 2. Ejecuta el instalador automatizado (como root)
